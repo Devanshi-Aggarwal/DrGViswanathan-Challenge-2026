@@ -12,7 +12,9 @@ This repository contains my solutions and learnings from the
 
 ## Progress
 
-| Day | Problem | Topic |
-|-----|---------|--------|
-| 1 | Two Sum | Hash Map |
-| 2 | Valid Parentheses | Stack |
+| Day | Problem | Topic | Status |
+|------|---------|--------|--------|
+| 1 | Two Sum | Array, Hash Map | ✅ |
+| 2 | Remove Linked List Elements | Linked List | ✅ |
+
+
