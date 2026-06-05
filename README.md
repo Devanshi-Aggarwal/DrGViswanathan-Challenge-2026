@@ -16,5 +16,15 @@ This repository contains my solutions and learnings from the
 |------|---------|--------|--------|
 | 1 | Two Sum | Array, Hash Map | ✅ |
 | 2 | Remove Linked List Elements | Linked List | ✅ |
+| 3 | Group Anagrams | Hash Map, Strings | ✅ |
+
+## Topics Covered So Far
+
+- Arrays
+- Hash Maps
+- Linked Lists
+- String Manipulation
+- Sorting
+
 
 
