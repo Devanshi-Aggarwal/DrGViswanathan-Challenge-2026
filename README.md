@@ -17,6 +17,7 @@ This repository contains my solutions and learnings from the
 | 1 | Two Sum | Array, Hash Map | ✅ |
 | 2 | Remove Linked List Elements | Linked List | ✅ |
 | 3 | Group Anagrams | Hash Map, Strings | ✅ |
+| 4 | Same Tree | Tree, DFS | ✅ |
 
 ## Topics Covered So Far
 
