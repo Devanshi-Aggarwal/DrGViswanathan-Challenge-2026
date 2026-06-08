@@ -21,6 +21,7 @@ This repository contains my solutions and learnings from the
 | 3 | Group Anagrams | Hash Map, Strings | ✅ |
 | 4 | Same Tree | Tree, DFS | ✅ |
 | 5 | Top K Frequent Elements | Hash Map, Frequency Count | ✅ |
+| 6 | Invert Binary Tree | Tree, DFS, Recursion | ✅ |
 
 ## Topics Covered So Far
 
@@ -31,8 +32,27 @@ This repository contains my solutions and learnings from the
 - Sorting
 - Binary Trees
 - Depth First Search (DFS)
+- Recursion
 - Frequency Counting
 - Python Counter
+- Tree Manipulation
+
+## Repository Structure
+
+```text
+DrGViswanathan-Challenge-2026/
+│
+├── README.md
+│
+├── Day-01-Two-Sum/
+├── Day-02-Remove-Linked-List-Elements/
+├── Day-03-Group-Anagrams/
+├── Day-04-Same-Tree/
+├── Day-05-Top-K-Frequent-Elements/
+├── Day-06-Invert-Binary-Tree/
+│
+└── ...
+```
 
 # Learning Philosophy
 
