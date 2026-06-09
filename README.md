@@ -22,6 +22,7 @@ This repository contains my solutions and learnings from the
 | 4 | Same Tree | Tree, DFS | ✅ |
 | 5 | Top K Frequent Elements | Hash Map, Frequency Count | ✅ |
 | 6 | Invert Binary Tree | Tree, DFS, Recursion | ✅ |
+| 7 | Best Time to Buy and Sell Stock | Array, Greedy | ✅ |
 
 ## Topics Covered So Far
 
@@ -36,6 +37,8 @@ This repository contains my solutions and learnings from the
 - Frequency Counting
 - Python Counter
 - Tree Manipulation
+- Greedy Algorithms
+- One Pass Traversal
 
 ## Repository Structure
 
@@ -50,6 +53,7 @@ DrGViswanathan-Challenge-2026/
 ├── Day-04-Same-Tree/
 ├── Day-05-Top-K-Frequent-Elements/
 ├── Day-06-Invert-Binary-Tree/
+├── Day-07-Best-Time-to-Buy-and-Sell-Stock/
 │
 └── ...
 ```
