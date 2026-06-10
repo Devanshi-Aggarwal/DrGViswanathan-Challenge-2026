@@ -23,6 +23,9 @@ This repository contains my solutions and learnings from the
 | 5 | Top K Frequent Elements | Hash Map, Frequency Count | ✅ |
 | 6 | Invert Binary Tree | Tree, DFS, Recursion | ✅ |
 | 7 | Best Time to Buy and Sell Stock | Array, Greedy | ✅ |
+| 8 | Min Stack | Stack, Design | ✅ |
+
+**Completed:** 8 / 85 Problems
 
 ## Topics Covered So Far
 
@@ -39,6 +42,8 @@ This repository contains my solutions and learnings from the
 - Tree Manipulation
 - Greedy Algorithms
 - One Pass Traversal
+- Stack
+- Design Problems
 
 ## Repository Structure
 
@@ -54,6 +59,7 @@ DrGViswanathan-Challenge-2026/
 ├── Day-05-Top-K-Frequent-Elements/
 ├── Day-06-Invert-Binary-Tree/
 ├── Day-07-Best-Time-to-Buy-and-Sell-Stock/
+├── Day-08-Min-Stack/
 │
 └── ...
 ```
