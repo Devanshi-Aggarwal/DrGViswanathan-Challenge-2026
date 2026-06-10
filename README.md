@@ -14,16 +14,16 @@ This repository contains my solutions and learnings from the
 
 ## Progress
 
-| Day | LC # | Problem | Topic | Status |
-|------|------|---------|--------|--------|
-| 1 | 1 | Two Sum | Array, Hash Map | ✅ |
-| 2 | 203 | Remove Linked List Elements | Linked List | ✅ |
-| 3 | 49 | Group Anagrams | Hash Map, Strings | ✅ |
-| 4 | 100 | Same Tree | Tree, DFS | ✅ |
-| 5 | 347 | Top K Frequent Elements | Hash Map, Frequency Count | ✅ |
-| 6 | 226 | Invert Binary Tree | Tree, DFS, Recursion | ✅ |
-| 7 | 121 | Best Time to Buy and Sell Stock | Array, Greedy | ✅ |
-| 8 | 155 | Min Stack | Stack, Design | ✅ |
+| Day | LeetCode No. | Problem | Difficulty | Topic | Status |
+|------|-------------|---------|------------|--------|--------|
+| 1 | 1 | Two Sum | Easy | Array, Hash Map | ✅ |
+| 2 | 203 | Remove Linked List Elements | Easy | Linked List | ✅ |
+| 3 | 49 | Group Anagrams | Medium | Hash Map, Strings | ✅ |
+| 4 | 100 | Same Tree | Easy | Tree, DFS | ✅ |
+| 5 | 347 | Top K Frequent Elements | Medium | Hash Map, Frequency Count | ✅ |
+| 6 | 226 | Invert Binary Tree | Easy | Tree, DFS, Recursion | ✅ |
+| 7 | 121 | Best Time to Buy and Sell Stock | Easy | Array, Greedy | ✅ |
+| 8 | 155 | Min Stack | Medium | Stack, Design | ✅ |
 
 **Completed:** 8 / 85 Problems
 
