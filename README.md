@@ -14,16 +14,16 @@ This repository contains my solutions and learnings from the
 
 ## Progress
 
-| Day | Problem | Topic | Status |
-|------|---------|--------|--------|
-| 1 | Two Sum | Array, Hash Map | ✅ |
-| 2 | Remove Linked List Elements | Linked List | ✅ |
-| 3 | Group Anagrams | Hash Map, Strings | ✅ |
-| 4 | Same Tree | Tree, DFS | ✅ |
-| 5 | Top K Frequent Elements | Hash Map, Frequency Count | ✅ |
-| 6 | Invert Binary Tree | Tree, DFS, Recursion | ✅ |
-| 7 | Best Time to Buy and Sell Stock | Array, Greedy | ✅ |
-| 8 | Min Stack | Stack, Design | ✅ |
+| Day | LC # | Problem | Topic | Status |
+|------|------|---------|--------|--------|
+| 1 | 1 | Two Sum | Array, Hash Map | ✅ |
+| 2 | 203 | Remove Linked List Elements | Linked List | ✅ |
+| 3 | 49 | Group Anagrams | Hash Map, Strings | ✅ |
+| 4 | 100 | Same Tree | Tree, DFS | ✅ |
+| 5 | 347 | Top K Frequent Elements | Hash Map, Frequency Count | ✅ |
+| 6 | 226 | Invert Binary Tree | Tree, DFS, Recursion | ✅ |
+| 7 | 121 | Best Time to Buy and Sell Stock | Array, Greedy | ✅ |
+| 8 | 155 | Min Stack | Stack, Design | ✅ |
 
 **Completed:** 8 / 85 Problems
 
