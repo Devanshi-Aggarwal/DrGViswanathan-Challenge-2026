@@ -24,8 +24,9 @@ This repository contains my solutions and learnings from the
 | 6 | 226 | Invert Binary Tree | Easy | Tree, DFS, Recursion | ✅ |
 | 7 | 121 | Best Time to Buy and Sell Stock | Easy | Array, Greedy | ✅ |
 | 8 | 155 | Min Stack | Medium | Stack, Design | ✅ |
+| 9 | 56 | Merge Intervals | Medium | Sorting, Intervals | ✅ |
 
-**Completed:** 8 / 85 Problems
+**Completed:** 9 / 85 Problems
 
 ## Topics Covered So Far
 
@@ -44,6 +45,8 @@ This repository contains my solutions and learnings from the
 - One Pass Traversal
 - Stack
 - Design Problems
+- Interval Problems
+- Greedy Merging
 
 ## Repository Structure
 
@@ -60,6 +63,7 @@ DrGViswanathan-Challenge-2026/
 ├── Day-06-Invert-Binary-Tree/
 ├── Day-07-Best-Time-to-Buy-and-Sell-Stock/
 ├── Day-08-Min-Stack/
+├── Day-09-Merge-Intervals/
 │
 └── ...
 ```
