@@ -25,8 +25,9 @@ This repository contains my solutions and learnings from the
 | 7 | 121 | Best Time to Buy and Sell Stock | Easy | Array, Greedy | ✅ |
 | 8 | 155 | Min Stack | Medium | Stack, Design | ✅ |
 | 9 | 56 | Merge Intervals | Medium | Sorting, Intervals | ✅ |
+| 10 | 104 | Maximum Depth of Binary Tree | Easy | Tree, DFS, Recursion | ✅ |
 
-**Completed:** 9 / 85 Problems
+**Completed:** 10 / 85 Problems
 
 ## Topics Covered So Far
 
@@ -64,6 +65,7 @@ DrGViswanathan-Challenge-2026/
 ├── Day-07-Best-Time-to-Buy-and-Sell-Stock/
 ├── Day-08-Min-Stack/
 ├── Day-09-Merge-Intervals/
+├── Day-10-Maximum-Depth-of-Binary-Tree/
 │
 └── ...
 ```
