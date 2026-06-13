@@ -26,8 +26,9 @@ This repository contains my solutions and learnings from the
 | 8 | 155 | Min Stack | Medium | Stack, Design | ✅ |
 | 9 | 56 | Merge Intervals | Medium | Sorting, Intervals | ✅ |
 | 10 | 104 | Maximum Depth of Binary Tree | Easy | Tree, DFS, Recursion | ✅ |
+| 11 | 53 | Maximum Subarray | Medium | DP, Greedy | ✅ |
 
-**Completed:** 10 / 85 Problems
+**Completed:** 11 / 85 Problems
 
 ## Topics Covered So Far
 
@@ -48,6 +49,8 @@ This repository contains my solutions and learnings from the
 - Design Problems
 - Interval Problems
 - Greedy Merging
+- Dynamic Programming
+- Kadane's Algorithm
 
 ## Repository Structure
 
@@ -66,6 +69,7 @@ DrGViswanathan-Challenge-2026/
 ├── Day-08-Min-Stack/
 ├── Day-09-Merge-Intervals/
 ├── Day-10-Maximum-Depth-of-Binary-Tree/
+├── Day-11-Maximum-Subarray/
 │
 └── ...
 ```
