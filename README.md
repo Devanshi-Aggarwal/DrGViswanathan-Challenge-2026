@@ -27,8 +27,9 @@ This repository contains my solutions and learnings from the
 | 9 | 56 | Merge Intervals | Medium | Sorting, Intervals | ✅ |
 | 10 | 104 | Maximum Depth of Binary Tree | Easy | Tree, DFS, Recursion | ✅ |
 | 11 | 53 | Maximum Subarray | Medium | DP, Greedy | ✅ |
+| 12 | 206 | Reverse Linked List | Easy | Linked List, Recursion | ✅ |
 
-**Completed:** 11 / 85 Problems
+**Completed:** 12 / 85 Problems
 
 ## Topics Covered So Far
 
@@ -70,6 +71,7 @@ DrGViswanathan-Challenge-2026/
 ├── Day-09-Merge-Intervals/
 ├── Day-10-Maximum-Depth-of-Binary-Tree/
 ├── Day-11-Maximum-Subarray/
+├── Day-12-Reverse-Linked-List/
 │
 └── ...
 ```
