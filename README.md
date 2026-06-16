@@ -29,8 +29,9 @@ This repository contains my solutions and learnings from the
 | 11 | 53 | Maximum Subarray | Medium | DP, Greedy | ✅ |
 | 12 | 206 | Reverse Linked List | Easy | Linked List, Recursion | ✅ |
 | 13 | 238 | Product of Array Except Self | Medium | Arrays, Prefix/Suffix Product | ✅ |
+| 14 | 101 | Symmetric Tree | Easy | Tree, DFS, Recursion | ✅ |
 
-**Completed:** 13 / 85 Problems
+**Completed:** 14 / 85 Problems
 
 ## Topics Covered So Far
 
@@ -54,6 +55,9 @@ This repository contains my solutions and learnings from the
 - Dynamic Programming
 - Kadane's Algorithm
 - Prefix/Suffix Product
+- Symmetry Checking
+- Mirror Traversal
+- Recursive Tree Comparison
 
 ## Repository Structure
 
@@ -75,6 +79,7 @@ DrGViswanathan-Challenge-2026/
 ├── Day-11-Maximum-Subarray/
 ├── Day-12-Reverse-Linked-List/
 ├── Day-13-Product-of-Array-Except-Self/
+├── Day-14-Symmetric-Tree/
 │
 └── ...
 ```
