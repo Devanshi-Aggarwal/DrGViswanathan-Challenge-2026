@@ -30,8 +30,9 @@ This repository contains my solutions and learnings from the
 | 12 | 206 | Reverse Linked List | Easy | Linked List, Recursion | ✅ |
 | 13 | 238 | Product of Array Except Self | Medium | Arrays, Prefix/Suffix Product | ✅ |
 | 14 | 101 | Symmetric Tree | Easy | Tree, DFS, Recursion | ✅ |
+| 15 | 167 | Two Sum II - Input Array Is Sorted | Medium | Binary Search, Sorted Array | ✅ |
 
-**Completed:** 14 / 85 Problems
+**Completed:** 15 / 85 Problems
 
 ## Topics Covered So Far
 
@@ -58,6 +59,9 @@ This repository contains my solutions and learnings from the
 - Symmetry Checking
 - Mirror Traversal
 - Recursive Tree Comparison
+- Binary Search
+- Sorted Array Techniques
+- Search Space Reduction
 
 ## Repository Structure
 
@@ -80,6 +84,7 @@ DrGViswanathan-Challenge-2026/
 ├── Day-12-Reverse-Linked-List/
 ├── Day-13-Product-of-Array-Except-Self/
 ├── Day-14-Symmetric-Tree/
+├── Day-15-Two-Sum-II-Input-Array-Is-Sorted/
 │
 └── ...
 ```
