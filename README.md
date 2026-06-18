@@ -31,8 +31,9 @@ This repository contains my solutions and learnings from the
 | 13 | 238 | Product of Array Except Self | Medium | Arrays, Prefix/Suffix Product | ✅ |
 | 14 | 101 | Symmetric Tree | Easy | Tree, DFS, Recursion | ✅ |
 | 15 | 167 | Two Sum II - Input Array Is Sorted | Medium | Binary Search, Sorted Array | ✅ |
+| 16 | 110 | Balanced Binary Tree | Easy | Tree, DFS, Height Calculation | ✅ |
 
-**Completed:** 15 / 85 Problems
+**Completed:** 16 / 85 Problems
 
 ## Topics Covered So Far
 
@@ -62,6 +63,9 @@ This repository contains my solutions and learnings from the
 - Binary Search
 - Sorted Array Techniques
 - Search Space Reduction
+- Height Calculation
+- Balanced Trees
+- Recursive Optimization
 
 ## Repository Structure
 
@@ -85,6 +89,7 @@ DrGViswanathan-Challenge-2026/
 ├── Day-13-Product-of-Array-Except-Self/
 ├── Day-14-Symmetric-Tree/
 ├── Day-15-Two-Sum-II-Input-Array-Is-Sorted/
+├── Day-16-Balanced-Binary-Tree/
 │
 └── ...
 ```
