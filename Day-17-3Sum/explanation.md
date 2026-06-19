@@ -1,4 +1,4 @@
-# LeetCode 15 — 3Sum
+# LeetCode 15 - 3Sum
 
 ## Problem Statement
 Given an integer array `nums`, return all unique triplets:
