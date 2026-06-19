@@ -32,8 +32,9 @@ This repository contains my solutions and learnings from the
 | 14 | 101 | Symmetric Tree | Easy | Tree, DFS, Recursion | ✅ |
 | 15 | 167 | Two Sum II - Input Array Is Sorted | Medium | Binary Search, Sorted Array | ✅ |
 | 16 | 110 | Balanced Binary Tree | Easy | Tree, DFS, Height Calculation | ✅ |
+| 17 | 15 | 3Sum | Medium | Arrays, Sorting, Two Pointers | ✅ |
 
-**Completed:** 16 / 85 Problems
+**Completed:** 17 / 85 Problems
 
 ## Topics Covered So Far
 
@@ -66,6 +67,9 @@ This repository contains my solutions and learnings from the
 - Height Calculation
 - Balanced Trees
 - Recursive Optimization
+- Two Pointers
+- Duplicate Handling
+- Search Space Optimization
 
 ## Repository Structure
 
@@ -90,6 +94,7 @@ DrGViswanathan-Challenge-2026/
 ├── Day-14-Symmetric-Tree/
 ├── Day-15-Two-Sum-II-Input-Array-Is-Sorted/
 ├── Day-16-Balanced-Binary-Tree/
+├── Day-17-3Sum/
 │
 └── ...
 ```
