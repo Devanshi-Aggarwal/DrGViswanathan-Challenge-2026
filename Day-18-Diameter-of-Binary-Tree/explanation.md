@@ -1,4 +1,4 @@
-# LeetCode 543 — Diameter of Binary Tree
+# LeetCode 543 - Diameter of Binary Tree
 
 ## Problem Statement
 Given the root of a binary tree, return the **diameter** of the tree.
