@@ -34,8 +34,9 @@ This repository contains my solutions and learnings from the
 | 16 | 110 | Balanced Binary Tree | Easy | Tree, DFS, Height Calculation | ✅ |
 | 17 | 15 | 3Sum | Medium | Arrays, Sorting, Two Pointers | ✅ |
 | 18 | 543 | Diameter of Binary Tree | Easy | Trees, DFS, Recursion | ✅ |
+| 19 | 704 | Binary Search | Easy | Binary Search, Divide & Conquer | ✅ |
 
-**Completed:** 18 / 85 Problems
+**Completed:** 19 / 85 Problems
 
 ## Topics Covered So Far
 
@@ -74,6 +75,8 @@ This repository contains my solutions and learnings from the
 - Tree Height Calculation
 - Diameter Problems
 - Bottom-Up DFS
+- Divide and Conquer
+- Python Bisect
 
   
 ## Repository Structure
@@ -101,6 +104,7 @@ DrGViswanathan-Challenge-2026/
 ├── Day-16-Balanced-Binary-Tree/
 ├── Day-17-3Sum/
 ├── Day-18-Diameter-of-Binary-Tree/
+├── Day-19-Binary-Search/
 │
 └── ...
 ```
