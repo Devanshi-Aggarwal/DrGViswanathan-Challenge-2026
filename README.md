@@ -35,8 +35,9 @@ This repository contains my solutions and learnings from the
 | 17 | 15 | 3Sum | Medium | Arrays, Sorting, Two Pointers | ✅ |
 | 18 | 543 | Diameter of Binary Tree | Easy | Trees, DFS, Recursion | ✅ |
 | 19 | 704 | Binary Search | Easy | Binary Search, Divide & Conquer | ✅ |
+| 20 | 141 | Linked List Cycle | Easy | Linked List, Hash Set, Cycle Detection | ✅ |
 
-**Completed:** 19 / 85 Problems
+**Completed:** 20 / 85 Problems
 
 ## Topics Covered So Far
 
@@ -77,6 +78,9 @@ This repository contains my solutions and learnings from the
 - Bottom-Up DFS
 - Divide and Conquer
 - Python Bisect
+- Hash Set
+- Cycle Detection
+- Visited Nodes Tracking
 
   
 ## Repository Structure
@@ -105,6 +109,7 @@ DrGViswanathan-Challenge-2026/
 ├── Day-17-3Sum/
 ├── Day-18-Diameter-of-Binary-Tree/
 ├── Day-19-Binary-Search/
+├── Day-20-Linked-List-Cycle/
 │
 └── ...
 ```
