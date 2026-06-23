@@ -36,8 +36,9 @@ This repository contains my solutions and learnings from the
 | 18 | 543 | Diameter of Binary Tree | Easy | Trees, DFS, Recursion | ✅ |
 | 19 | 704 | Binary Search | Easy | Binary Search, Divide & Conquer | ✅ |
 | 20 | 141 | Linked List Cycle | Easy | Linked List, Hash Set, Cycle Detection | ✅ |
+| 21 | 33 | Search in Rotated Sorted Array | Medium | Binary Search, Rotated Array | ✅ |
 
-**Completed:** 20 / 85 Problems
+**Completed:** 21 / 85 Problems
 
 ## Topics Covered So Far
 
@@ -81,6 +82,9 @@ This repository contains my solutions and learnings from the
 - Hash Set
 - Cycle Detection
 - Visited Nodes Tracking
+- Rotated Sorted Array
+- Modified Binary Search
+- Sorted Half Detection
 
   
 ## Repository Structure
@@ -110,6 +114,7 @@ DrGViswanathan-Challenge-2026/
 ├── Day-18-Diameter-of-Binary-Tree/
 ├── Day-19-Binary-Search/
 ├── Day-20-Linked-List-Cycle/
+├── Day-21-Search-in-Rotated-Sorted-Array/
 │
 └── ...
 ```
