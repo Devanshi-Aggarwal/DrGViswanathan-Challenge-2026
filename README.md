@@ -37,8 +37,9 @@ This repository contains my solutions and learnings from the
 | 19 | 704 | Binary Search | Easy | Binary Search, Divide & Conquer | ✅ |
 | 20 | 141 | Linked List Cycle | Easy | Linked List, Hash Set, Cycle Detection | ✅ |
 | 21 | 33 | Search in Rotated Sorted Array | Medium | Binary Search, Rotated Array | ✅ |
+| 22 | 19 | Remove Nth Node From End of List | Medium | Linked List, Two Pointers | ✅ |
 
-**Completed:** 21 / 85 Problems
+**Completed:** 22 / 85 Problems
 
 ## Topics Covered So Far
 
@@ -85,6 +86,10 @@ This repository contains my solutions and learnings from the
 - Rotated Sorted Array
 - Modified Binary Search
 - Sorted Half Detection
+- Fast & Slow Pointer
+- Node Deletion
+- Gap Technique
+- Linked List Traversal
 
   
 ## Repository Structure
@@ -115,6 +120,7 @@ DrGViswanathan-Challenge-2026/
 ├── Day-19-Binary-Search/
 ├── Day-20-Linked-List-Cycle/
 ├── Day-21-Search-in-Rotated-Sorted-Array/
+├── Day-22-Remove-Nth-Node-From-End-of-List/
 │
 └── ...
 ```
