@@ -38,8 +38,9 @@ This repository contains my solutions and learnings from the
 | 20 | 141 | Linked List Cycle | Easy | Linked List, Hash Set, Cycle Detection | ✅ |
 | 21 | 33 | Search in Rotated Sorted Array | Medium | Binary Search, Rotated Array | ✅ |
 | 22 | 19 | Remove Nth Node From End of List | Medium | Linked List, Two Pointers | ✅ |
+| 23 | 383 | Ransom Note | Easy | Hash Map, Frequency Count, Counter | ✅ |
 
-**Completed:** 22 / 85 Problems
+**Completed:** 23 / 85 Problems
 
 ## Topics Covered So Far
 
@@ -90,6 +91,9 @@ This repository contains my solutions and learnings from the
 - Node Deletion
 - Gap Technique
 - Linked List Traversal
+- Character Frequency Matching
+- String Counting
+- Frequency Comparison
 
   
 ## Repository Structure
@@ -121,6 +125,7 @@ DrGViswanathan-Challenge-2026/
 ├── Day-20-Linked-List-Cycle/
 ├── Day-21-Search-in-Rotated-Sorted-Array/
 ├── Day-22-Remove-Nth-Node-From-End-of-List/
+├── Day-23-Ransom-Note/
 │
 └── ...
 ```
