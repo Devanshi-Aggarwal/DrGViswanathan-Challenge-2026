@@ -39,8 +39,9 @@ This repository contains my solutions and learnings from the
 | 21 | 33 | Search in Rotated Sorted Array | Medium | Binary Search, Rotated Array | ✅ |
 | 22 | 19 | Remove Nth Node From End of List | Medium | Linked List, Two Pointers | ✅ |
 | 23 | 383 | Ransom Note | Easy | Hash Map, Frequency Count, Counter | ✅ |
+| 24 | 235 | Lowest Common Ancestor of a Binary Search Tree | Medium | BST, Trees, Recursion | ✅ |
 
-**Completed:** 23 / 85 Problems
+**Completed:** 24 / 85 Problems
 
 ## Topics Covered So Far
 
@@ -94,6 +95,10 @@ This repository contains my solutions and learnings from the
 - Character Frequency Matching
 - String Counting
 - Frequency Comparison
+- Binary Search Tree (BST)
+- Lowest Common Ancestor (LCA)
+- Tree Traversal Decisions
+- Ordered Tree Search
 
   
 ## Repository Structure
@@ -126,6 +131,7 @@ DrGViswanathan-Challenge-2026/
 ├── Day-21-Search-in-Rotated-Sorted-Array/
 ├── Day-22-Remove-Nth-Node-From-End-of-List/
 ├── Day-23-Ransom-Note/
+├── Day-24-Lowest-Common-Ancestor-of-a-Binary-Search-Tree/
 │
 └── ...
 ```
