@@ -40,8 +40,9 @@ This repository contains my solutions and learnings from the
 | 22 | 19 | Remove Nth Node From End of List | Medium | Linked List, Two Pointers | ✅ |
 | 23 | 383 | Ransom Note | Easy | Hash Map, Frequency Count, Counter | ✅ |
 | 24 | 235 | Lowest Common Ancestor of a Binary Search Tree | Medium | BST, Trees, Recursion | ✅ |
+| 25 | 21 | Merge Two Sorted Lists | Easy | Linked List, Recursion, Merge | ✅ |
 
-**Completed:** 24 / 85 Problems
+**Completed:** 25 / 85 Problems
 
 ## Topics Covered So Far
 
@@ -99,6 +100,9 @@ This repository contains my solutions and learnings from the
 - Lowest Common Ancestor (LCA)
 - Tree Traversal Decisions
 - Ordered Tree Search
+- Merge Sorted Lists
+- Recursive Merging
+- Sorted Linked List Processing
 
   
 ## Repository Structure
@@ -132,6 +136,7 @@ DrGViswanathan-Challenge-2026/
 ├── Day-22-Remove-Nth-Node-From-End-of-List/
 ├── Day-23-Ransom-Note/
 ├── Day-24-Lowest-Common-Ancestor-of-a-Binary-Search-Tree/
+├── Day-25-Merge-Two-Sorted-Lists/
 │
 └── ...
 ```
