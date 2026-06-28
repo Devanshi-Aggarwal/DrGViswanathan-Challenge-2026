@@ -41,8 +41,9 @@ This repository contains my solutions and learnings from the
 | 23 | 383 | Ransom Note | Easy | Hash Map, Frequency Count, Counter | ✅ |
 | 24 | 235 | Lowest Common Ancestor of a Binary Search Tree | Medium | BST, Trees, Recursion | ✅ |
 | 25 | 21 | Merge Two Sorted Lists | Easy | Linked List, Recursion, Merge | ✅ |
+| 26 | 230 | Kth Smallest Element in a BST | Medium | Binary Search Tree, DFS, Inorder Traversal | ✅ |
 
-**Completed:** 25 / 85 Problems
+**Completed:** 26 / 85 Problems
 
 ## Topics Covered So Far
 
@@ -103,6 +104,8 @@ This repository contains my solutions and learnings from the
 - Merge Sorted Lists
 - Recursive Merging
 - Sorted Linked List Processing
+- Inorder Traversal
+- Ordered Tree Traversal
 
   
 ## Repository Structure
@@ -137,6 +140,7 @@ DrGViswanathan-Challenge-2026/
 ├── Day-23-Ransom-Note/
 ├── Day-24-Lowest-Common-Ancestor-of-a-Binary-Search-Tree/
 ├── Day-25-Merge-Two-Sorted-Lists/
+├── Day-26-Kth-Smallest-Element-in-a-BST/
 │
 └── ...
 ```
