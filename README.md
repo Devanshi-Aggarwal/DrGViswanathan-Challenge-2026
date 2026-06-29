@@ -42,8 +42,9 @@ This repository contains my solutions and learnings from the
 | 24 | 235 | Lowest Common Ancestor of a Binary Search Tree | Medium | BST, Trees, Recursion | ✅ |
 | 25 | 21 | Merge Two Sorted Lists | Easy | Linked List, Recursion, Merge | ✅ |
 | 26 | 230 | Kth Smallest Element in a BST | Medium | Binary Search Tree, DFS, Inorder Traversal | ✅ |
+| 27 | 392 | Is Subsequence | Easy | Two Pointers, String Traversal, Subsequence Matching | ✅ |
 
-**Completed:** 26 / 85 Problems
+**Completed:** 27 / 85 Problems
 
 ## Topics Covered So Far
 
@@ -106,6 +107,9 @@ This repository contains my solutions and learnings from the
 - Sorted Linked List Processing
 - Inorder Traversal
 - Ordered Tree Traversal
+- Subsequence Matching
+- Ordered Character Validation
+- String Traversal
 
   
 ## Repository Structure
@@ -141,6 +145,7 @@ DrGViswanathan-Challenge-2026/
 ├── Day-24-Lowest-Common-Ancestor-of-a-Binary-Search-Tree/
 ├── Day-25-Merge-Two-Sorted-Lists/
 ├── Day-26-Kth-Smallest-Element-in-a-BST/
+├── Day-27-Is-Subsequence/
 │
 └── ...
 ```
