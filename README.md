@@ -43,8 +43,9 @@ This repository contains my solutions and learnings from the
 | 25 | 21 | Merge Two Sorted Lists | Easy | Linked List, Recursion, Merge | ✅ |
 | 26 | 230 | Kth Smallest Element in a BST | Medium | Binary Search Tree, DFS, Inorder Traversal | ✅ |
 | 27 | 392 | Is Subsequence | Easy | Two Pointers, String Traversal, Subsequence Matching | ✅ |
+| 28 | 733 | Flood Fill | Easy | DFS, Graph Traversal, Matrix Traversal | ✅ |
 
-**Completed:** 27 / 85 Problems
+**Completed:** 28 / 85 Problems
 
 ## Topics Covered So Far
 
@@ -110,6 +111,12 @@ This repository contains my solutions and learnings from the
 - Subsequence Matching
 - Ordered Character Validation
 - String Traversal
+- Graph Traversal
+- Grid Traversal
+- Matrix Boundary Checking
+- Connected Components
+- Flood Fill Algorithm
+- 4-Directional DFS
 
   
 ## Repository Structure
@@ -146,6 +153,7 @@ DrGViswanathan-Challenge-2026/
 ├── Day-25-Merge-Two-Sorted-Lists/
 ├── Day-26-Kth-Smallest-Element-in-a-BST/
 ├── Day-27-Is-Subsequence/
+├── Day-28-Flood-Fill/
 │
 └── ...
 ```
