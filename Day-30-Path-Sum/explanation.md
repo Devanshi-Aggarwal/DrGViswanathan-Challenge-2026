@@ -1,30 +1,21 @@
-# 112. Path Sum
+# 112. Path Sum — Explanation
 
 ## Problem Statement
-Given the root of a binary tree and an integer `targetSum`, determine if the tree has a **root-to-leaf path** such that the sum of node values equals `targetSum`.
+Given the `root` of a binary tree and an integer `targetSum`, return **true** if the tree has a **root-to-leaf path** such that adding up all the values along the path equals `targetSum`.
 
-A leaf node is a node with no children.
+A **leaf** is a node with no left or right child.
 
 ---
 
-## Approach: Depth First Search (DFS)
+## Approach Used: Depth First Search (DFS)
 
-We use DFS to explore every root-to-leaf path.
+We use **DFS (Depth First Search)** with **recursion** to explore every possible root-to-leaf path.
 
 At each node:
-1. Add current node value to running sum
-2. If node is a leaf:
-   - Check if running sum equals targetSum
-3. Otherwise recursively explore left and right subtrees
-
----
-
-## Key Observation
-
-We need to check **complete root-to-leaf paths**, not partial paths.
-
-That means:
-- Reaching target sum before leaf node does **not** count.
+1. Add current node’s value to the running sum.
+2. Check if current node is a leaf node.
+3. If it is a leaf and sum equals `targetSum`, return `True`.
+4. Otherwise, recursively check left and right subtrees.
 
 ---
 
@@ -51,9 +42,15 @@ class Solution:
 
 ## Dry Run
 
-Input:
+### Input
+```text
+root = [5,4,8,11,null,13,4,7,2,null,null,null,1]
+targetSum = 22
+```
 
-Tree:
+### Tree Representation
+
+```text
         5
        / \
       4   8
@@ -61,42 +58,127 @@ Tree:
    11   13  4
    / \        \
   7   2        1
+```
 
-targetSum = 22
+---
 
-Path checked:
+### Traversal
 
-5 → 4 → 11 → 2
+Start with sum = 0
 
-Sum:
+#### Visit Node 5
+```text
+sum = 0 + 5 = 5
+```
 
-5 + 4 + 11 + 2 = 22
+#### Visit Node 4
+```text
+sum = 5 + 4 = 9
+```
 
-Since this is a root-to-leaf path, answer is:
+#### Visit Node 11
+```text
+sum = 9 + 11 = 20
+```
 
+#### Visit Node 7
+```text
+sum = 20 + 7 = 27
+```
+
+Node 7 is a leaf but:
+
+```text
+27 != 22
+```
+
+Return False for this path.
+
+---
+
+Backtrack to node 11 and visit node 2.
+
+#### Visit Node 2
+```text
+sum = 20 + 2 = 22
+```
+
+Node 2 is a leaf.
+
+Check:
+
+```text
+22 == 22
+```
+
+Condition satisfied.
+
+Return:
+
+```text
 True
+```
 
 ---
 
-## Complexity Analysis
+## Valid Path Found
 
-**Time Complexity:** O(n)
+```text
+5 → 4 → 11 → 2
+```
 
-Every node is visited once.
+Path sum:
 
-**Space Complexity:** O(h)
+```text
+5 + 4 + 11 + 2 = 22
+```
 
-Where h is tree height due to recursion stack.
+Since this is a root-to-leaf path and equals target sum:
 
-Worst case skewed tree → O(n)
-
-Balanced tree → O(log n)
+# Answer = True ✅
 
 ---
 
-## Key Learnings
-- Tree DFS
+## Time Complexity
+Each node is visited once.
+
+```text
+O(N)
+```
+
+where **N = number of nodes**
+
+---
+
+## Space Complexity
+Recursive call stack can go as deep as tree height.
+
+```text
+O(H)
+```
+
+where **H = height of tree**
+
+Worst case:
+
+```text
+O(N)
+```
+(for skewed tree)
+
+Best case:
+
+```text
+O(log N)
+```
+(for balanced tree)
+
+---
+
+## Key Concepts Learned
+- Binary Trees
+- Depth First Search (DFS)
+- Recursion
 - Root-to-Leaf Traversal
-- Running Sum Technique
-- Recursive Backtracking
-- Leaf Node Validation
+- Running Sum Tracking
+- Backtracking
