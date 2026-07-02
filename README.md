@@ -44,6 +44,7 @@ This repository contains my solutions and learnings from the
 | 26 | 230 | Kth Smallest Element in a BST | Medium | Binary Search Tree, DFS, Inorder Traversal | ✅ |
 | 27 | 392 | Is Subsequence | Easy | Two Pointers, String Traversal, Subsequence Matching | ✅ |
 | 28 | 733 | Flood Fill | Easy | DFS, Graph Traversal, Matrix Traversal | ✅ |
+| 30 | 112 | Path Sum | Easy | DFS, Binary Tree, Recursion | ✅ |
 
 **Completed:** 28 / 85 Problems
 
