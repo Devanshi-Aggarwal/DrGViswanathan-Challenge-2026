@@ -44,9 +44,10 @@ This repository contains my solutions and learnings from the
 | 26 | 230 | Kth Smallest Element in a BST | Medium | Binary Search Tree, DFS, Inorder Traversal | ✅ |
 | 27 | 392 | Is Subsequence | Easy | Two Pointers, String Traversal, Subsequence Matching | ✅ |
 | 28 | 733 | Flood Fill | Easy | DFS, Graph Traversal, Matrix Traversal | ✅ |
+| 29 | 62 | Unique Paths | Medium | Dynamic Programming, Grid DP, Tabulation | ✅ |
 | 30 | 112 | Path Sum | Easy | DFS, Binary Tree, Recursion | ✅ |
 
-**Completed:** 28 / 85 Problems
+**Completed:** 30 / 85 Problems
 
 ## Topics Covered So Far
 
@@ -118,6 +119,15 @@ This repository contains my solutions and learnings from the
 - Connected Components
 - Flood Fill Algorithm
 - 4-Directional DFS
+- Grid Dynamic Programming
+- Tabulation
+- State Transition
+- Path Counting
+- 2D DP
+- Root-to-Leaf Traversal
+- Running Sum Technique
+- Leaf Node Validation
+- Path Accumulation
 
   
 ## Repository Structure
@@ -155,6 +165,8 @@ DrGViswanathan-Challenge-2026/
 ├── Day-26-Kth-Smallest-Element-in-a-BST/
 ├── Day-27-Is-Subsequence/
 ├── Day-28-Flood-Fill/
+├── Day-29-Unique-Paths/
+├── Day-30-Path-Sum/
 │
 └── ...
 ```
