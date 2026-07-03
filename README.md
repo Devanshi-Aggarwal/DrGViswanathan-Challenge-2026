@@ -46,8 +46,9 @@ This repository contains my solutions and learnings from the
 | 28 | 733 | Flood Fill | Easy | DFS, Graph Traversal, Matrix Traversal | ✅ |
 | 29 | 62 | Unique Paths | Medium | Dynamic Programming, Grid DP, Tabulation | ✅ |
 | 30 | 112 | Path Sum | Easy | DFS, Binary Tree, Recursion | ✅ |
+| 31 | 242 | Valid Anagram | Easy | Hash Map, Counter | ✅ |
 
-**Completed:** 30 / 85 Problems
+**Completed:** 31 / 85 Problems
 
 ## Topics Covered So Far
 
@@ -167,6 +168,7 @@ DrGViswanathan-Challenge-2026/
 ├── Day-28-Flood-Fill/
 ├── Day-29-Unique-Paths/
 ├── Day-30-Path-Sum/
+├── Day-31-Valid-Anagram/
 │
 └── ...
 ```
