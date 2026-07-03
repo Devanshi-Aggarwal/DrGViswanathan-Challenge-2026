@@ -1,4 +1,4 @@
-# 242. Valid Anagram — Explanation
+# 242. Valid Anagram - Explanation
 
 ## Problem Statement
 Given two strings `s` and `t`, return **true** if `t` is an **anagram** of `s`, and **false** otherwise.
@@ -110,7 +110,7 @@ True
 
 So:
 
-# Answer = True ✅
+# Answer = True 
 
 ---
 
@@ -146,7 +146,7 @@ c = -1
 
 Not all values are zero.
 
-# Answer = False ❌
+# Answer = False 
 
 ---
 
