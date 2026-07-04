@@ -1,4 +1,4 @@
-# 3. Longest Substring Without Repeating Characters — Explanation
+# 3. Longest Substring Without Repeating Characters 
 
 ## Problem Statement
 
