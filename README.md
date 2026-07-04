@@ -47,8 +47,9 @@ This repository contains my solutions and learnings from the
 | 29 | 62 | Unique Paths | Medium | Dynamic Programming, Grid DP, Tabulation | ✅ |
 | 30 | 112 | Path Sum | Easy | DFS, Binary Tree, Recursion | ✅ |
 | 31 | 242 | Valid Anagram | Easy | Hash Map, Counter | ✅ |
+| 32 | 3 | Longest Substring Without Repeating Characters | Medium | Sliding Window, Two Pointers | ✅ |
 
-**Completed:** 31 / 85 Problems
+**Completed:** 32 / 85 Problems
 
 ## Topics Covered So Far
 
@@ -129,6 +130,9 @@ This repository contains my solutions and learnings from the
 - Running Sum Technique
 - Leaf Node Validation
 - Path Accumulation
+- Sliding Window
+- Window Shrinking
+- Longest Substring
 
   
 ## Repository Structure
@@ -169,6 +173,7 @@ DrGViswanathan-Challenge-2026/
 ├── Day-29-Unique-Paths/
 ├── Day-30-Path-Sum/
 ├── Day-31-Valid-Anagram/
+├── Day-32-Longest-Substring-Without-Repeating-Characters/
 │
 └── ...
 ```
