@@ -48,8 +48,9 @@ This repository contains my solutions and learnings from the
 | 30 | 112 | Path Sum | Easy | DFS, Binary Tree, Recursion | ✅ |
 | 31 | 242 | Valid Anagram | Easy | Hash Map, Counter | ✅ |
 | 32 | 3 | Longest Substring Without Repeating Characters | Medium | Sliding Window, Two Pointers | ✅ |
+| 33 | 463 | Island Perimeter | Easy | Matrix, Geometry, Counting | ✅ |
 
-**Completed:** 32 / 85 Problems
+**Completed:** 33 / 85 Problems
 
 ## Topics Covered So Far
 
@@ -133,6 +134,10 @@ This repository contains my solutions and learnings from the
 - Sliding Window
 - Window Shrinking
 - Longest Substring
+- Geometry-Based Counting
+- Neighbor Detection
+- Constant Space Optimization
+- Perimeter Calculation
 
   
 ## Repository Structure
@@ -174,6 +179,7 @@ DrGViswanathan-Challenge-2026/
 ├── Day-30-Path-Sum/
 ├── Day-31-Valid-Anagram/
 ├── Day-32-Longest-Substring-Without-Repeating-Characters/
+├── Day-33-Island-Perimeter/
 │
 └── ...
 ```
