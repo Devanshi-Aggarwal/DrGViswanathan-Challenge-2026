@@ -49,8 +49,9 @@ This repository contains my solutions and learnings from the
 | 31 | 242 | Valid Anagram | Easy | Hash Map, Counter | ✅ |
 | 32 | 3 | Longest Substring Without Repeating Characters | Medium | Sliding Window, Two Pointers | ✅ |
 | 33 | 463 | Island Perimeter | Easy | Matrix, Geometry, Counting | ✅ |
+| 34 | 198 | House Robber | Medium | Dynamic Programming, Linear DP | ✅ |
 
-**Completed:** 33 / 85 Problems
+**Completed:** 34 / 85 Problems
 
 ## Topics Covered So Far
 
@@ -138,6 +139,10 @@ This repository contains my solutions and learnings from the
 - Neighbor Detection
 - Constant Space Optimization
 - Perimeter Calculation
+- Linear Dynamic Programming
+- Decision Making DP
+- Optimal Substructure
+- State Transition DP
 
   
 ## Repository Structure
@@ -180,6 +185,7 @@ DrGViswanathan-Challenge-2026/
 ├── Day-31-Valid-Anagram/
 ├── Day-32-Longest-Substring-Without-Repeating-Characters/
 ├── Day-33-Island-Perimeter/
+├── Day-34-House-Robber/
 │
 └── ...
 ```
