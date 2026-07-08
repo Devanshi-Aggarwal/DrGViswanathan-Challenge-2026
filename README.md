@@ -50,8 +50,10 @@ This repository contains my solutions and learnings from the
 | 32 | 3 | Longest Substring Without Repeating Characters | Medium | Sliding Window, Two Pointers | ✅ |
 | 33 | 463 | Island Perimeter | Easy | Matrix, Geometry, Counting | ✅ |
 | 34 | 198 | House Robber | Medium | Dynamic Programming, Linear DP | ✅ |
+| 35 | 232 | Implement Queue using Stacks | Easy | Queue, Stack, Design | ✅ |
+| 36 | 215 | Kth Largest Element in an Array | Medium | Quick Select, Divide and Conquer | ✅ |
 
-**Completed:** 34 / 85 Problems
+**Completed:** 36 / 85 Problems
 
 ## Topics Covered So Far
 
@@ -143,6 +145,17 @@ This repository contains my solutions and learnings from the
 - Decision Making DP
 - Optimal Substructure
 - State Transition DP
+- Queue
+- Queue Implementation
+- FIFO (First In First Out)
+- Two Stack Technique
+- Amortized Analysis
+- Lazy Transfer
+- Quick Select
+- Partitioning Technique
+- Selection Algorithms
+- In-place Partitioning
+- Average Case Analysis
 
   
 ## Repository Structure
@@ -186,6 +199,8 @@ DrGViswanathan-Challenge-2026/
 ├── Day-32-Longest-Substring-Without-Repeating-Characters/
 ├── Day-33-Island-Perimeter/
 ├── Day-34-House-Robber/
+├── Day-35-Implement-Queue-using-Stacks/
+├── Day-36-Kth-Largest-Element-in-an-Array/
 │
 └── ...
 ```
