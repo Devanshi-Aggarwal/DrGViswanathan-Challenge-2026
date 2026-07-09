@@ -52,8 +52,9 @@ This repository contains my solutions and learnings from the
 | 34 | 198 | House Robber | Medium | Dynamic Programming, Linear DP | ✅ |
 | 35 | 232 | Implement Queue using Stacks | Easy | Queue, Stack, Design | ✅ |
 | 36 | 215 | Kth Largest Element in an Array | Medium | Quick Select, Divide and Conquer | ✅ |
+| 37 | 98 | Validate Binary Search Tree | Medium | BST, Inorder Traversal, DFS | ✅ |
 
-**Completed:** 36 / 85 Problems
+**Completed:** 37 / 85 Problems
 
 ## Topics Covered So Far
 
@@ -156,6 +157,10 @@ This repository contains my solutions and learnings from the
 - Selection Algorithms
 - In-place Partitioning
 - Average Case Analysis
+- BST Validation
+- Inorder Traversal Property
+- Previous Node Tracking
+- Monotonic Sequence Verification
 
   
 ## Repository Structure
@@ -201,6 +206,7 @@ DrGViswanathan-Challenge-2026/
 ├── Day-34-House-Robber/
 ├── Day-35-Implement-Queue-using-Stacks/
 ├── Day-36-Kth-Largest-Element-in-an-Array/
+├── Day-37-Validate-Binary-Search-Tree/
 │
 └── ...
 ```
