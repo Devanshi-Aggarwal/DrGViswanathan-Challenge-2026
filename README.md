@@ -209,6 +209,7 @@ DrGViswanathan-Challenge-2026/
 ├── Day-35-Implement-Queue-using-Stacks/
 ├── Day-36-Kth-Largest-Element-in-an-Array/
 ├── Day-37-Validate-Binary-Search-Tree/
+├── Day-38-Middle-of-the-Linked-List/
 │
 └── ...
 ```
