@@ -53,8 +53,9 @@ This repository contains my solutions and learnings from the
 | 35 | 232 | Implement Queue using Stacks | Easy | Queue, Stack, Design | ✅ |
 | 36 | 215 | Kth Largest Element in an Array | Medium | Quick Select, Divide and Conquer | ✅ |
 | 37 | 98 | Validate Binary Search Tree | Medium | BST, Inorder Traversal, DFS | ✅ |
+| 38 | 876 | Middle of the Linked List | Easy | Linked List, Fast & Slow Pointer | ✅ |
 
-**Completed:** 37 / 85 Problems
+**Completed:** 38 / 85 Problems
 
 ## Topics Covered So Far
 
@@ -161,6 +162,7 @@ This repository contains my solutions and learnings from the
 - Inorder Traversal Property
 - Previous Node Tracking
 - Monotonic Sequence Verification
+
 
   
 ## Repository Structure
