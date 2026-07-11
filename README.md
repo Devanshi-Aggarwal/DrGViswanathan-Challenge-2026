@@ -54,8 +54,9 @@ This repository contains my solutions and learnings from the
 | 36 | 215 | Kth Largest Element in an Array | Medium | Quick Select, Divide and Conquer | ✅ |
 | 37 | 98 | Validate Binary Search Tree | Medium | BST, Inorder Traversal, DFS | ✅ |
 | 38 | 876 | Middle of the Linked List | Easy | Linked List, Fast & Slow Pointer | ✅ |
+| 39 | 105 | Construct Binary Tree from Preorder and Inorder Traversal | Medium | Binary Tree, Recursion, Divide & Conquer | ✅ |
 
-**Completed:** 38 / 85 Problems
+**Completed:** 39 / 85 Problems
 
 ## Topics Covered So Far
 
@@ -162,6 +163,11 @@ This repository contains my solutions and learnings from the
 - Inorder Traversal Property
 - Previous Node Tracking
 - Monotonic Sequence Verification
+- Binary Tree Construction
+- Recursive Tree Building
+- Tree Partitioning
+- Preorder Traversal
+- Inorder Traversal
 
 
   
@@ -210,6 +216,7 @@ DrGViswanathan-Challenge-2026/
 ├── Day-36-Kth-Largest-Element-in-an-Array/
 ├── Day-37-Validate-Binary-Search-Tree/
 ├── Day-38-Middle-of-the-Linked-List/
+├── Day-39-Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal/
 │
 └── ...
 ```
