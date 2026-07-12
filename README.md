@@ -55,8 +55,9 @@ This repository contains my solutions and learnings from the
 | 37 | 98 | Validate Binary Search Tree | Medium | BST, Inorder Traversal, DFS | ✅ |
 | 38 | 876 | Middle of the Linked List | Easy | Linked List, Fast & Slow Pointer | ✅ |
 | 39 | 105 | Construct Binary Tree from Preorder and Inorder Traversal | Medium | Binary Tree, Recursion, Divide & Conquer | ✅ |
+| 40 | 977 | Squares of a Sorted Array | Easy | Two Pointers, Arrays | ✅ |
 
-**Completed:** 39 / 85 Problems
+**Completed:** 40 / 85 Problems
 
 ## Topics Covered So Far
 
@@ -168,6 +169,10 @@ This repository contains my solutions and learnings from the
 - Tree Partitioning
 - Preorder Traversal
 - Inorder Traversal
+- Sorted Array Processing
+- Absolute Value Comparison
+- Reverse Construction
+- Linear Time Optimization
 
 
   
@@ -217,6 +222,7 @@ DrGViswanathan-Challenge-2026/
 ├── Day-37-Validate-Binary-Search-Tree/
 ├── Day-38-Middle-of-the-Linked-List/
 ├── Day-39-Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal/
+├── Day-40-Squares-of-a-Sorted-Array/
 │
 └── ...
 ```
