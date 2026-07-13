@@ -56,8 +56,9 @@ This repository contains my solutions and learnings from the
 | 38 | 876 | Middle of the Linked List | Easy | Linked List, Fast & Slow Pointer | ✅ |
 | 39 | 105 | Construct Binary Tree from Preorder and Inorder Traversal | Medium | Binary Tree, Recursion, Divide & Conquer | ✅ |
 | 40 | 977 | Squares of a Sorted Array | Easy | Two Pointers, Arrays | ✅ |
+| 41 | 637 | Average of Levels in Binary Tree | Easy | Trees, BFS, Level Order Traversal | ✅ |
 
-**Completed:** 40 / 85 Problems
+**Completed:** 41 / 85 Problems
 
 ## Topics Covered So Far
 
@@ -173,6 +174,11 @@ This repository contains my solutions and learnings from the
 - Absolute Value Comparison
 - Reverse Construction
 - Linear Time Optimization
+- Breadth-First Search (BFS)
+- Queue Data Structure
+- Tree Level Processing
+- Running Sum Calculation
+- Average Computation
 
 
   
@@ -223,6 +229,7 @@ DrGViswanathan-Challenge-2026/
 ├── Day-38-Middle-of-the-Linked-List/
 ├── Day-39-Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal/
 ├── Day-40-Squares-of-a-Sorted-Array/
+├── Day-41-Average-of-Levels-in-Binary-Tree/
 │
 └── ...
 ```
