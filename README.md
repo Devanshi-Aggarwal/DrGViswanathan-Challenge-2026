@@ -57,8 +57,9 @@ This repository contains my solutions and learnings from the
 | 39 | 105 | Construct Binary Tree from Preorder and Inorder Traversal | Medium | Binary Tree, Recursion, Divide & Conquer | ✅ |
 | 40 | 977 | Squares of a Sorted Array | Easy | Two Pointers, Arrays | ✅ |
 | 41 | 637 | Average of Levels in Binary Tree | Easy | Trees, BFS, Level Order Traversal | ✅ |
+| 42 | 744 | Find Smallest Letter Greater Than Target | Easy | Binary Search, Sorted Array, Python Bisect | ✅ |
 
-**Completed:** 41 / 85 Problems
+**Completed:** 42 / 85 Problems
 
 ## Topics Covered So Far
 
@@ -179,6 +180,10 @@ This repository contains my solutions and learnings from the
 - Tree Level Processing
 - Running Sum Calculation
 - Average Computation
+- Upper Bound Search
+- Python bisect_right()
+- Circular Array Handling
+- Modulo-Based Wrap Around
 
 
   
@@ -230,6 +235,7 @@ DrGViswanathan-Challenge-2026/
 ├── Day-39-Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal/
 ├── Day-40-Squares-of-a-Sorted-Array/
 ├── Day-41-Average-of-Levels-in-Binary-Tree/
+├── Day-42-Find-Smallest-Letter-Greater-Than-Target/
 │
 └── ...
 ```
