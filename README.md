@@ -58,8 +58,9 @@ This repository contains my solutions and learnings from the
 | 40 | 977 | Squares of a Sorted Array | Easy | Two Pointers, Arrays | ✅ |
 | 41 | 637 | Average of Levels in Binary Tree | Easy | Trees, BFS, Level Order Traversal | ✅ |
 | 42 | 744 | Find Smallest Letter Greater Than Target | Easy | Binary Search, Sorted Array, Python Bisect | ✅ |
+| 43 | HR-Counting-Valleys | Counting Valleys | Easy | Simulation, Implementation | ✅ |
 
-**Completed:** 42 / 85 Problems
+**Completed:** 43 / 85 Problems
 
 ## Topics Covered So Far
 
@@ -184,6 +185,9 @@ This repository contains my solutions and learnings from the
 - Python bisect_right()
 - Circular Array Handling
 - Modulo-Based Wrap Around
+- Simulation
+- Altitude Tracking
+- State-Based Counting
 
 
   
@@ -236,6 +240,7 @@ DrGViswanathan-Challenge-2026/
 ├── Day-40-Squares-of-a-Sorted-Array/
 ├── Day-41-Average-of-Levels-in-Binary-Tree/
 ├── Day-42-Find-Smallest-Letter-Greater-Than-Target/
+├── Day-43-Counting-Valleys/
 │
 └── ...
 ```
