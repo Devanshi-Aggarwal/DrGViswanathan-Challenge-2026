@@ -59,8 +59,9 @@ This repository contains my solutions and learnings from the
 | 41 | 637 | Average of Levels in Binary Tree | Easy | Trees, BFS, Level Order Traversal | ✅ |
 | 42 | 744 | Find Smallest Letter Greater Than Target | Easy | Binary Search, Sorted Array, Python Bisect | ✅ |
 | 43 | HR-Counting-Valleys | Counting Valleys | Easy | Simulation, Implementation | ✅ |
+| 44 | 122 | Best Time to Buy and Sell Stock II | Medium | Dynamic Programming, Greedy, State Optimization | ✅ |
 
-**Completed:** 43 / 85 Problems
+**Completed:** 44 / 85 Problems
 
 ## Topics Covered So Far
 
@@ -188,6 +189,9 @@ This repository contains my solutions and learnings from the
 - Simulation
 - Altitude Tracking
 - State-Based Counting
+- Dynamic Programming
+- State Optimization
+- Stock Trading Problems
 
 
   
@@ -241,6 +245,7 @@ DrGViswanathan-Challenge-2026/
 ├── Day-41-Average-of-Levels-in-Binary-Tree/
 ├── Day-42-Find-Smallest-Letter-Greater-Than-Target/
 ├── Day-43-Counting-Valleys/
+├── Day-44-Best-Time-to-Buy-and-Sell-Stock-II/
 │
 └── ...
 ```
