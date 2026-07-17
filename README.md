@@ -60,8 +60,9 @@ This repository contains my solutions and learnings from the
 | 42 | 744 | Find Smallest Letter Greater Than Target | Easy | Binary Search, Sorted Array, Python Bisect | ✅ |
 | 43 | HR-Counting-Valleys | Counting Valleys | Easy | Simulation, Implementation | ✅ |
 | 44 | 122 | Best Time to Buy and Sell Stock II | Medium | Dynamic Programming, Greedy, State Optimization | ✅ |
+| 45 | 199 | Binary Tree Right Side View | Medium | Binary Tree, BFS, Level Order Traversal | ✅ |
 
-**Completed:** 44 / 85 Problems
+**Completed:** 45 / 85 Problems
 
 ## Topics Covered So Far
 
@@ -192,7 +193,10 @@ This repository contains my solutions and learnings from the
 - Dynamic Programming
 - State Optimization
 - Stock Trading Problems
-
+- Queue
+- Right Side View
+- Right-to-Left BFS
+- Level-Based Tree Traversal
 
   
 ## Repository Structure
@@ -246,6 +250,7 @@ DrGViswanathan-Challenge-2026/
 ├── Day-42-Find-Smallest-Letter-Greater-Than-Target/
 ├── Day-43-Counting-Valleys/
 ├── Day-44-Best-Time-to-Buy-and-Sell-Stock-II/
+├── Day-45-Binary-Tree-Right-Side-View/
 │
 └── ...
 ```
