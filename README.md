@@ -61,8 +61,9 @@ This repository contains my solutions and learnings from the
 | 43 | HR-Counting-Valleys | Counting Valleys | Easy | Simulation, Implementation | ✅ |
 | 44 | 122 | Best Time to Buy and Sell Stock II | Medium | Dynamic Programming, Greedy, State Optimization | ✅ |
 | 45 | 199 | Binary Tree Right Side View | Medium | Binary Tree, BFS, Level Order Traversal | ✅ |
+| 46 | 621 | Task Scheduler | Medium | Greedy, Hash Map, Frequency Counting | ✅ |
 
-**Completed:** 45 / 85 Problems
+**Completed:** 46 / 85 Problems
 
 ## Topics Covered So Far
 
@@ -197,6 +198,10 @@ This repository contains my solutions and learnings from the
 - Right Side View
 - Right-to-Left BFS
 - Level-Based Tree Traversal
+- Scheduling Problems
+- Task Scheduling
+- Frequency-Based Greedy
+- Mathematical Greedy
 
   
 ## Repository Structure
@@ -251,6 +256,7 @@ DrGViswanathan-Challenge-2026/
 ├── Day-43-Counting-Valleys/
 ├── Day-44-Best-Time-to-Buy-and-Sell-Stock-II/
 ├── Day-45-Binary-Tree-Right-Side-View/
+├── Day-46-Task-Scheduler/
 │
 └── ...
 ```
