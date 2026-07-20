@@ -62,8 +62,9 @@ This repository contains my solutions and learnings from the
 | 44 | 122 | Best Time to Buy and Sell Stock II | Medium | Dynamic Programming, Greedy, State Optimization | ✅ |
 | 45 | 199 | Binary Tree Right Side View | Medium | Binary Tree, BFS, Level Order Traversal | ✅ |
 | 46 | 621 | Task Scheduler | Medium | Greedy, Hash Map, Frequency Counting | ✅ |
+| 47 | AtCoder DP B | Frog 2 | Educational | Dynamic Programming, Tabulation, Minimum Cost Path | ✅ |
 
-**Completed:** 46 / 85 Problems
+**Completed:** 47 / 85 Problems
 
 ## Topics Covered So Far
 
@@ -202,6 +203,9 @@ This repository contains my solutions and learnings from the
 - Task Scheduling
 - Frequency-Based Greedy
 - Mathematical Greedy
+- Range-Based DP
+- Variable Jump Dynamic Programming
+- Minimum Cost Path
 
   
 ## Repository Structure
@@ -257,6 +261,7 @@ DrGViswanathan-Challenge-2026/
 ├── Day-44-Best-Time-to-Buy-and-Sell-Stock-II/
 ├── Day-45-Binary-Tree-Right-Side-View/
 ├── Day-46-Task-Scheduler/
+├── Day-47-Frog-2/
 │
 └── ...
 ```
