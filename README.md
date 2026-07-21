@@ -63,8 +63,9 @@ This repository contains my solutions and learnings from the
 | 45 | 199 | Binary Tree Right Side View | Medium | Binary Tree, BFS, Level Order Traversal | ✅ |
 | 46 | 621 | Task Scheduler | Medium | Greedy, Hash Map, Frequency Counting | ✅ |
 | 47 | AtCoder DP B | Frog 2 | Educational | Dynamic Programming, Tabulation, Minimum Cost Path | ✅ |
+| 48 | 287 | Find the Duplicate Number | Medium | Two Pointers, Floyd's Cycle Detection, Cycle Detection | ✅ |
 
-**Completed:** 47 / 85 Problems
+**Completed:** 48 / 85 Problems
 
 ## Topics Covered So Far
 
@@ -206,6 +207,9 @@ This repository contains my solutions and learnings from the
 - Range-Based DP
 - Variable Jump Dynamic Programming
 - Minimum Cost Path
+- Floyd's Cycle Detection
+- Linked List Interpretation
+- Constant Space Algorithms
 
   
 ## Repository Structure
@@ -262,6 +266,7 @@ DrGViswanathan-Challenge-2026/
 ├── Day-45-Binary-Tree-Right-Side-View/
 ├── Day-46-Task-Scheduler/
 ├── Day-47-Frog-2/
+├── Day-48-Find-the-Duplicate-Number/
 │
 └── ...
 ```
