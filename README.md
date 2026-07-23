@@ -65,8 +65,9 @@ This repository contains my solutions and learnings from the
 | 47 | AtCoder DP B | Frog 2 | Educational | Dynamic Programming, Tabulation, Minimum Cost Path | ✅ |
 | 48 | 287 | Find the Duplicate Number | Medium | Two Pointers, Floyd's Cycle Detection, Cycle Detection | ✅ |
 | 49 | 114 | Flatten Binary Tree to Linked List | Medium | Binary Tree, Preorder Traversal, Morris Traversal, Tree Manipulation | ✅ |
+| 50 | 560 | Subarray Sum Equals K | Medium | Prefix Sum, Hash Map, Prefix Frequency, Arrays | ✅ |
 
-**Completed:** 49 / 85 Problems
+**Completed:** 50 / 85 Problems
 
 ## Topics Covered So Far
 
@@ -212,6 +213,8 @@ This repository contains my solutions and learnings from the
 - Linked List Interpretation
 - Constant Space Algorithms
 - Morris Traversal
+- Prefix Sum
+- Prefix Frequency
 
   
 ## Repository Structure
@@ -270,6 +273,7 @@ DrGViswanathan-Challenge-2026/
 ├── Day-47-Frog-2/
 ├── Day-48-Find-the-Duplicate-Number/
 ├── Day-49-Flatten-Binary-Tree-to-Linked-List/
+├── Day-50-Subarray-Sum-Equals-K/
 │
 └── ...
 ```
