@@ -66,8 +66,10 @@ This repository contains my solutions and learnings from the
 | 48 | 287 | Find the Duplicate Number | Medium | Two Pointers, Floyd's Cycle Detection, Cycle Detection | ✅ |
 | 49 | 114 | Flatten Binary Tree to Linked List | Medium | Binary Tree, Preorder Traversal, Morris Traversal, Tree Manipulation | ✅ |
 | 50 | 560 | Subarray Sum Equals K | Medium | Prefix Sum, Hash Map, Prefix Frequency, Arrays | ✅ |
+| 51 | 200 | Number of Islands | Medium | DFS, Graph Traversal, Matrix Traversal, Flood Fill | ✅ |
 
-**Completed:** 50 / 85 Problems
+
+**Completed:** 51 / 85 Problems
 
 ## Topics Covered So Far
 
@@ -216,6 +218,7 @@ This repository contains my solutions and learnings from the
 - Prefix Sum
 - Prefix Frequency
 
+
   
 ## Repository Structure
 
@@ -274,6 +277,7 @@ DrGViswanathan-Challenge-2026/
 ├── Day-48-Find-the-Duplicate-Number/
 ├── Day-49-Flatten-Binary-Tree-to-Linked-List/
 ├── Day-50-Subarray-Sum-Equals-K/
+├── Day-51-Number-of-Islands/
 │
 └── ...
 ```
