@@ -67,9 +67,10 @@ This repository contains my solutions and learnings from the
 | 49 | 114 | Flatten Binary Tree to Linked List | Medium | Binary Tree, Preorder Traversal, Morris Traversal, Tree Manipulation | ✅ |
 | 50 | 560 | Subarray Sum Equals K | Medium | Prefix Sum, Hash Map, Prefix Frequency, Arrays | ✅ |
 | 51 | 200 | Number of Islands | Medium | DFS, Graph Traversal, Matrix Traversal, Flood Fill | ✅ |
+| 52 | 91 | Decode Ways | Medium | Dynamic Programming, String, DP Array, State Transition | ✅ |
 
 
-**Completed:** 51 / 85 Problems
+**Completed:** 52 / 85 Problems
 
 ## Topics Covered So Far
 
@@ -217,6 +218,10 @@ This repository contains my solutions and learnings from the
 - Morris Traversal
 - Prefix Sum
 - Prefix Frequency
+- Dynamic Programming
+- String Processing
+- DP Array
+- State Transition
 
 
   
@@ -278,6 +283,7 @@ DrGViswanathan-Challenge-2026/
 ├── Day-49-Flatten-Binary-Tree-to-Linked-List/
 ├── Day-50-Subarray-Sum-Equals-K/
 ├── Day-51-Number-of-Islands/
+├── Day-52-Decode-Ways/
 │
 └── ...
 ```
