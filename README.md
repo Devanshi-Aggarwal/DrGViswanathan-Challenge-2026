@@ -68,9 +68,10 @@ This repository contains my solutions and learnings from the
 | 50 | 560 | Subarray Sum Equals K | Medium | Prefix Sum, Hash Map, Prefix Frequency, Arrays | ✅ |
 | 51 | 200 | Number of Islands | Medium | DFS, Graph Traversal, Matrix Traversal, Flood Fill | ✅ |
 | 52 | 91 | Decode Ways | Medium | Dynamic Programming, String, DP Array, State Transition | ✅ |
+| 53 | 417 | Pacific Atlantic Water Flow | Medium | Graph, BFS, Multi-Source BFS, Matrix Traversal | ✅ |
 
 
-**Completed:** 52 / 85 Problems
+**Completed:** 53 / 85 Problems
 
 ## Topics Covered So Far
 
@@ -222,6 +223,13 @@ This repository contains my solutions and learnings from the
 - String Processing
 - DP Array
 - State Transition
+- Breadth-First Search (BFS)
+- Multi-Source BFS
+- Graph Traversal
+- Matrix Traversal
+- Reverse Traversal
+- Queue
+- Visited Matrix
 
 
   
@@ -284,6 +292,7 @@ DrGViswanathan-Challenge-2026/
 ├── Day-50-Subarray-Sum-Equals-K/
 ├── Day-51-Number-of-Islands/
 ├── Day-52-Decode-Ways/
+├── Day-53-Pacific-Atlantic-Water-Flow/
 │
 └── ...
 ```
