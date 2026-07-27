@@ -69,9 +69,10 @@ This repository contains my solutions and learnings from the
 | 51 | 200 | Number of Islands | Medium | DFS, Graph Traversal, Matrix Traversal, Flood Fill | ✅ |
 | 52 | 91 | Decode Ways | Medium | Dynamic Programming, String, DP Array, State Transition | ✅ |
 | 53 | 417 | Pacific Atlantic Water Flow | Medium | Graph, BFS, Multi-Source BFS, Matrix Traversal | ✅ |
+| 54 | 438 | Find All Anagrams in a String | Medium | Sliding Window, Hash Map, Frequency Counting, String | ✅ |
 
 
-**Completed:** 53 / 85 Problems
+**Completed:** 54 / 85 Problems
 
 ## Topics Covered So Far
 
@@ -230,7 +231,11 @@ This repository contains my solutions and learnings from the
 - Reverse Traversal
 - Queue
 - Visited Matrix
-
+- Sliding Window
+- Fixed-Size Sliding Window
+- Character Frequency Counting
+- Hash Map / Counter
+- String Traversal
 
   
 ## Repository Structure
@@ -293,6 +298,7 @@ DrGViswanathan-Challenge-2026/
 ├── Day-51-Number-of-Islands/
 ├── Day-52-Decode-Ways/
 ├── Day-53-Pacific-Atlantic-Water-Flow/
+├── Day-54-Find-All-Anagrams-in-a-String/
 │
 └── ...
 ```
