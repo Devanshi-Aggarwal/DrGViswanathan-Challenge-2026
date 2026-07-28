@@ -70,9 +70,10 @@ This repository contains my solutions and learnings from the
 | 52 | 91 | Decode Ways | Medium | Dynamic Programming, String, DP Array, State Transition | ✅ |
 | 53 | 417 | Pacific Atlantic Water Flow | Medium | Graph, BFS, Multi-Source BFS, Matrix Traversal | ✅ |
 | 54 | 438 | Find All Anagrams in a String | Medium | Sliding Window, Hash Map, Frequency Counting, String | ✅ |
+| 55 | 133 | Clone Graph | Medium | Graph, BFS, Queue, Hash Map, Graph Traversal | ✅ |
 
 
-**Completed:** 54 / 85 Problems
+**Completed:** 55 / 85 Problems
 
 ## Topics Covered So Far
 
@@ -236,6 +237,10 @@ This repository contains my solutions and learnings from the
 - Character Frequency Counting
 - Hash Map / Counter
 - String Traversal
+- Graph Cloning
+- Deep Copy
+- Queue
+- Adjacency List
 
   
 ## Repository Structure
@@ -299,6 +304,7 @@ DrGViswanathan-Challenge-2026/
 ├── Day-52-Decode-Ways/
 ├── Day-53-Pacific-Atlantic-Water-Flow/
 ├── Day-54-Find-All-Anagrams-in-a-String/
+├── Day-55-Clone-Graph/
 │
 └── ...
 ```
