@@ -71,9 +71,10 @@ This repository contains my solutions and learnings from the
 | 53 | 417 | Pacific Atlantic Water Flow | Medium | Graph, BFS, Multi-Source BFS, Matrix Traversal | ✅ |
 | 54 | 438 | Find All Anagrams in a String | Medium | Sliding Window, Hash Map, Frequency Counting, String | ✅ |
 | 55 | 133 | Clone Graph | Medium | Graph, BFS, Queue, Hash Map, Graph Traversal | ✅ |
+| 56 | 994 | Rotting Oranges | Medium | BFS, Multi-Source BFS, Queue, Matrix Traversal, Simulation | ✅ |
 
 
-**Completed:** 55 / 85 Problems
+**Completed:** 56 / 85 Problems
 
 ## Topics Covered So Far
 
@@ -241,6 +242,10 @@ This repository contains my solutions and learnings from the
 - Deep Copy
 - Queue
 - Adjacency List
+- Multi-Source BFS
+- Simulation
+- Grid Traversal
+- Level-by-Level Processing
 
   
 ## Repository Structure
@@ -305,6 +310,7 @@ DrGViswanathan-Challenge-2026/
 ├── Day-53-Pacific-Atlantic-Water-Flow/
 ├── Day-54-Find-All-Anagrams-in-a-String/
 ├── Day-55-Clone-Graph/
+├── Day-56-Rotting-Oranges/
 │
 └── ...
 ```
