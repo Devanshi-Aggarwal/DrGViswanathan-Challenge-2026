@@ -72,9 +72,10 @@ This repository contains my solutions and learnings from the
 | 54 | 438 | Find All Anagrams in a String | Medium | Sliding Window, Hash Map, Frequency Counting, String | ✅ |
 | 55 | 133 | Clone Graph | Medium | Graph, BFS, Queue, Hash Map, Graph Traversal | ✅ |
 | 56 | 994 | Rotting Oranges | Medium | BFS, Multi-Source BFS, Queue, Matrix Traversal, Simulation | ✅ |
+| 57 | 2 | Add Two Numbers | Medium | Linked List, Simulation, Carry Handling, Math | ✅ |
 
 
-**Completed:** 56 / 85 Problems
+**Completed:** 57 / 85 Problems
 
 ## Topics Covered So Far
 
@@ -246,6 +247,10 @@ This repository contains my solutions and learnings from the
 - Simulation
 - Grid Traversal
 - Level-by-Level Processing
+- Linked List
+- Dummy Node
+- Carry Handling
+- Digit-by-Digit Simulation
 
   
 ## Repository Structure
@@ -311,6 +316,7 @@ DrGViswanathan-Challenge-2026/
 ├── Day-54-Find-All-Anagrams-in-a-String/
 ├── Day-55-Clone-Graph/
 ├── Day-56-Rotting-Oranges/
+├── Day-57-Add-Two-Numbers/
 │
 └── ...
 ```
