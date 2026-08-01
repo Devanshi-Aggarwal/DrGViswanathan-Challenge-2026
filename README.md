@@ -73,9 +73,10 @@ This repository contains my solutions and learnings from the
 | 55 | 133 | Clone Graph | Medium | Graph, BFS, Queue, Hash Map, Graph Traversal | ✅ |
 | 56 | 994 | Rotting Oranges | Medium | BFS, Multi-Source BFS, Queue, Matrix Traversal, Simulation | ✅ |
 | 57 | 2 | Add Two Numbers | Medium | Linked List, Simulation, Carry Handling, Math | ✅ |
+| 58 | 207 | Course Schedule | Medium | Graph, Topological Sort, BFS, Queue, Kahn's Algorithm | ✅ |
 
 
-**Completed:** 57 / 85 Problems
+**Completed:** 58 / 85 Problems
 
 ## Topics Covered So Far
 
@@ -251,6 +252,11 @@ This repository contains my solutions and learnings from the
 - Dummy Node
 - Carry Handling
 - Digit-by-Digit Simulation
+- Topological Sort
+- Kahn's Algorithm
+- Indegree
+- Directed Graph
+- Cycle Detection in Graphs
 
   
 ## Repository Structure
@@ -317,6 +323,7 @@ DrGViswanathan-Challenge-2026/
 ├── Day-55-Clone-Graph/
 ├── Day-56-Rotting-Oranges/
 ├── Day-57-Add-Two-Numbers/
+├── Day-58-Course-Schedule/
 │
 └── ...
 ```
