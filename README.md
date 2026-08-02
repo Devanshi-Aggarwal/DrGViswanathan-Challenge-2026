@@ -74,9 +74,10 @@ This repository contains my solutions and learnings from the
 | 56 | 994 | Rotting Oranges | Medium | BFS, Multi-Source BFS, Queue, Matrix Traversal, Simulation | ✅ |
 | 57 | 2 | Add Two Numbers | Medium | Linked List, Simulation, Carry Handling, Math | ✅ |
 | 58 | 207 | Course Schedule | Medium | Graph, Topological Sort, BFS, Queue, Kahn's Algorithm | ✅ |
+| 59 | 146 | LRU Cache | Medium | Design, Hash Map, Doubly Linked List, Cache, Data Structures | ✅ |
 
 
-**Completed:** 58 / 85 Problems
+**Completed:** 59 / 85 Problems
 
 ## Topics Covered So Far
 
@@ -257,6 +258,12 @@ This repository contains my solutions and learnings from the
 - Indegree
 - Directed Graph
 - Cycle Detection in Graphs
+- LRU Cache
+- Doubly Linked List
+- Cache Design
+- Design Problems
+- O(1) Data Structures
+- Eviction Policy
 
   
 ## Repository Structure
@@ -324,6 +331,7 @@ DrGViswanathan-Challenge-2026/
 ├── Day-56-Rotting-Oranges/
 ├── Day-57-Add-Two-Numbers/
 ├── Day-58-Course-Schedule/
+├── Day-59-LRU-Cache/
 │
 └── ...
 ```
