@@ -75,9 +75,10 @@ This repository contains my solutions and learnings from the
 | 57 | 2 | Add Two Numbers | Medium | Linked List, Simulation, Carry Handling, Math | ✅ |
 | 58 | 207 | Course Schedule | Medium | Graph, Topological Sort, BFS, Queue, Kahn's Algorithm | ✅ |
 | 59 | 146 | LRU Cache | Medium | Design, Hash Map, Doubly Linked List, Cache, Data Structures | ✅ |
+| 60 | 322 | Coin Change | Medium | Dynamic Programming, Bottom-Up DP, Unbounded Knapsack, Arrays | ✅ |
 
 
-**Completed:** 59 / 85 Problems
+**Completed:** 60 / 85 Problems
 
 ## Topics Covered So Far
 
@@ -264,7 +265,12 @@ This repository contains my solutions and learnings from the
 - Design Problems
 - O(1) Data Structures
 - Eviction Policy
-
+- Dynamic Programming
+- Bottom-Up DP
+- Unbounded Knapsack
+- State Transition
+- Optimization Problems
+- Coin Change
   
 ## Repository Structure
 
@@ -332,6 +338,7 @@ DrGViswanathan-Challenge-2026/
 ├── Day-57-Add-Two-Numbers/
 ├── Day-58-Course-Schedule/
 ├── Day-59-LRU-Cache/
+├── Day-60-Coin-Change/
 │
 └── ...
 ```
